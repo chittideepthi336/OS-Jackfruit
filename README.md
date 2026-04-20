@@ -4,8 +4,8 @@
 
 | Name | SRN |
 |------|-----|
-| Ananya S |PES1UG24AM038 |
-| Ananya Raghavendra |PES1UG24AM037 |
+| Deepthi A E |PES1UG24AM358 |
+| Tejaswini S |PES1UG24AM815 |
 
 ---
 
